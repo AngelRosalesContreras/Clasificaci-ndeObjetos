@@ -37,7 +37,7 @@ Users can easily **take a photo**, **upload an image**, and **classify objects i
 
 | Home Screen | Classification Result | Menu Options | User Guide |
 |-------------|-----------------------|-------------|------------|
-| ![Home](./images/home.jpg) | ![Result](./images/classification.jpg) | ![Menu](./images/menu.jpg) | ![Guide](./images/guide.jpg) |
+| ![Home](./images/home.jpeg) | ![Result](./images/classification.jpeg) | ![Menu](./images/menu.jpeg) | ![Guide](./images/guide.jpeg) |
 
 ---
 
